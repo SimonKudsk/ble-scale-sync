@@ -167,6 +167,8 @@ BlueZ and noble, plus the ESP32 and ESPHome proxies).
 <td align="center"><a href="https://github.com/rolandgeider"><img src="https://avatars.githubusercontent.com/u/2280729?v=4" width="60" height="60" alt="rolandgeider"><br><sub>rolandgeider</sub></a><br><sub>1 commit</sub></td>
 <td align="center"><a href="https://github.com/sanglt"><img src="https://avatars.githubusercontent.com/u/128535?v=4" width="60" height="60" alt="sanglt"><br><sub>sanglt</sub></a><br><sub>1 commit</sub></td>
 <td align="center"><a href="https://github.com/rjekelmans"><img src="https://avatars.githubusercontent.com/u/13397247?v=4" width="60" height="60" alt="rjekelmans"><br><sub>rjekelmans</sub></a><br><sub>1 commit</sub></td>
+</tr><tr>
+<td align="center"><a href="https://github.com/SimonKudsk"><img src="https://avatars.githubusercontent.com/u/10168417?v=4" width="60" height="60" alt="SimonKudsk"><br><sub>SimonKudsk</sub></a><br><sub>1 commit</sub></td>
 </tr></table>
 <!-- contributors:end -->
 
